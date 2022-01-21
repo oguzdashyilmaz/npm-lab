@@ -1,0 +1,14 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "This is a test repo created for a specific bootcamp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oguz Yilmaz",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
