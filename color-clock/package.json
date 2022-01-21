@@ -4,7 +4,7 @@
   "description": "This is a test repo created for a specific bootcamp.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo 'Hello World'"
   },
   "author": "Oguz Yilmaz",
   "license": "ISC",
